@@ -1,7 +1,7 @@
 <taglib>
     <tlib-version>1.0</tlib-version>
     <jsp-version>2.0</jsp-version>
-    <short-name>Tag Lib Demo</short-name>
+    <short-name>Welcome Tag</short-name>
     <uri>http://matc.edu/tags</uri>
     <tag>
         <name>Welcome</name>
